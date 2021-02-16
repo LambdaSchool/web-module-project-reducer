@@ -2,7 +2,7 @@
 
 This module explored the reducer pattern. During the module, you studied what immutability is, what reducers, actions and dispatch are, and how to use the reducer hook. In this project, you will practice each of the steps of building state and actions into an application. We will do this by both adding in and building from scratch all of the pieces of the reducer pattern.
 
-## Objectives
+## Objectives================================
 - Understand how to use useReducer hook.
 - Get comfortable connecting a reducer state to an application's UI.
 - Successfully connect UI user events to the dispatching of reducer actions.
