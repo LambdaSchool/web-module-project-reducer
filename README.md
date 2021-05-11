@@ -1,4 +1,4 @@
-# The Reducer Pattern Module Project: The Calculator
+git# The Reducer Pattern Module Project: The Calculator
 
 This module explored the reducer pattern. During the module, you studied what immutability is, what reducers, actions and dispatch are, and how to use the reducer hook. In this project, you will practice each of the steps of building state and actions into an application. We will do this by both adding in and building from scratch all of the pieces of the reducer pattern.
 
@@ -20,11 +20,11 @@ This simplified calculator adds the entire number selected, rather then adds dig
 
 ## Instructions
 ### Task 1: Project Set Up
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository in your terminal
-* [ ] cd into the project base directory `cd web-module-project-reducer-pattern`
-* [ ] Download project dependencies by running `npm install`
-* [ ] Start up the app using `npm start`
+* [x] Create a forked copy of this project.
+* [x] Clone your OWN version of the repository in your terminal
+* [x] cd into the project base directory `cd web-module-project-reducer-pattern`
+* [x] Download project dependencies by running `npm install`
+* [x] Start up the app using `npm start`
 
 ### Task 2: Project Requirements
 #### Connect The Reducer
